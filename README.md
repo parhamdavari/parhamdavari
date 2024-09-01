@@ -3,7 +3,7 @@
 👨‍💻 I'm Parham,  
 ⚡ a ML Engineer,  
 🌐 who also enjoys web development,  
-🚀 But passionate about following projects:
+🚀 but passionate about following projects:
 - *MLOps Platform:* An end-to-end, air-gapped MLOps platform,  
 - *Decentralized Investment:* A smartcontract-based platform on the Tron network.
 
