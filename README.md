@@ -1,6 +1,6 @@
 **Hello friend** 👋  
 
-💻 I'm Parham,  
+👨‍💻 I'm Parham,  
 ⚡ a ML Engineer,  
 🌐 who also enjoys web development,  
 🚀 But passionate about following projects:
